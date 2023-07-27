@@ -10,3 +10,14 @@ html, body {
 ul.menu {
     color: #fff;
 }
+
+
+.social-icon-group {
+    width: 96px;
+}
+.social-icon-group > svg {
+    width: 24px;
+    height: 24px;
+    fill: #F85559;
+    
+}
